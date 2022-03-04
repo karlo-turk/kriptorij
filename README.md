@@ -17,7 +17,7 @@ A Crypto website made to follow the price of crypto and news about crypto.
 ## Authors
 
 - **Karlo Turk** - _Made the application_ -
-  [PurpleBooth](https://github.com/PurpleBooth)
+  
 
 - **PurpleBooth** _Provided README Template_ -
   [PurpleBooth](https://github.com/PurpleBooth)
