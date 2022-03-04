@@ -25,4 +25,4 @@ A Crypto website made to follow the price of crypto and news about crypto.
 ## Acknowledgments
 
 - Hat tip to anyone whose code is used
-- Inspiration JavaScriptMastery [Adrian](https://github.com/adrianhajdin)
+
